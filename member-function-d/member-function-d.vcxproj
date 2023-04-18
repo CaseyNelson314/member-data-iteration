@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="member-function-d.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HasMember.hpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
