@@ -129,5 +129,17 @@ int main()
 		};
 		MemberIteratePrinter{ std::cout }(array);
 	}
+	
+	//>  floating point: 100
+	//>  floating point: 200
+	//>  floating point: 1
+	//>  floating point: 2
+	//>  floating point: 3
+	//>  floating point: 4
+	//>  floating point: 5
+	//>  floating point: 6
+	//>  floating point: 7
+	//>  floating point: 8
+	//>  floating point: 9
 
 }
